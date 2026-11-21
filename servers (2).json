@@ -1,0 +1,18 @@
+﻿[
+    {
+        "logo": "moscow",
+        "id": "1",
+        "status": "", 
+        "online": "50", 
+        "maxonline": "1000", 
+        "color": "FF0000", 
+        "x2": "false", 
+        "key": "1424", 
+        "name": "WARD RUSSIA", 
+        "firstname": "WARD", 
+        "secondname": "RUSSIA", 
+        "url": "red.blackrussia.online", 
+        "ip": "80.242.59.112", 
+        "port": "6629"
+    }
+]
